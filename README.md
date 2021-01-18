@@ -4,9 +4,9 @@
 To work on a glycan image extraction tool.
 
 ## Topics
-* Data Platform
+* Data Extraction
 * Machine Learning
-* Tools Platform
+* Annotation
 
 ## Participants
 * Kiyoko F. Aoki-Kinoshita
@@ -16,14 +16,21 @@ To work on a glycan image extraction tool.
 ## Expected outcomes
 * Brainstorming
 
-    * Initial assessment on what outcomes should be targeted
-
-    * Preliminary data model
+    * Initial assessment on what BLAH7 outcomes should be expected 
+        * Glycan image extraction
+        * Annotation of glycans to GlyTouCan ID
+        * Extraction of Glycan-related text 
+        * Annotation of (COVID-19-related) publications with glycan-related terms 
 
 * Development
 
     * Preliminary data model
-    * Initial data extraction 
+    * Initial data extraction from figures in publications
+        * Take images in literature and find glycans in these images
+        * Extract monosaccarides and convert this information into text format
+    * How can we annotate these figures in publications
+        * We find the accession number in GlyTouCan IDs
+
 
 ## Expected audience
 
