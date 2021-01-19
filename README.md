@@ -34,7 +34,7 @@ To work on a glycan image extraction tool.
 
 ## Expected audience
 
-Number of expected hacking days: 5 days
+Number of expected hackathon days: 5 days
 
 ### GitHub repo and development
 * https://github.com/salsik/blah7_hackathon
